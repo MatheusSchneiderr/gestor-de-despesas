@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestaodeDespesasAPI", "GestaodeDespesasAPI\GestaodeDespesasAPI.csproj", "{BAEDE6D5-C6A2-4699-BFA7-5155D41972AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiCLI", "WebApiCLI\WebApiCLI.csproj", "{4941E286-1BB7-4D9B-B193-76A7510561A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAEDE6D5-C6A2-4699-BFA7-5155D41972AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAEDE6D5-C6A2-4699-BFA7-5155D41972AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAEDE6D5-C6A2-4699-BFA7-5155D41972AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAEDE6D5-C6A2-4699-BFA7-5155D41972AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4941E286-1BB7-4D9B-B193-76A7510561A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4941E286-1BB7-4D9B-B193-76A7510561A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4941E286-1BB7-4D9B-B193-76A7510561A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4941E286-1BB7-4D9B-B193-76A7510561A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
